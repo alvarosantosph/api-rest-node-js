@@ -4,6 +4,12 @@
 Api Rest em Node.js utilizando funções para simular requisições
 ```
 
+<div align="left">
+    <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge" alt="Javascript">
+    <img src="https://img.shields.io/badge/-Node.js-orange?style=for-the-badge" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express">
+</div>
+
 ### Desenvolvedor:
 
 * Alvaro Santos
